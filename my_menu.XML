@@ -1,0 +1,32 @@
+<menu>
+  <food>
+    <name>pizza</name>
+    <price>20</price>
+    <carories>560</carories>
+  </food>
+  <food>
+    <name>Hamberger</name>
+    <price>10</price>
+    <carories>300</carories>
+  </food>
+  <food>
+    <name>Hotdog</name>
+    <price>25</price>
+    <carories>490</carories>
+  </food>
+  <food>
+    <name>Timsum</name>
+    <price>12</price>
+    <carories>400</carories>
+  </food>
+  <food>
+    <name>Spaghetti</name>
+    <price>30</price>
+    <carories>350</carories>
+  </food>
+  <food>
+    <name>Thai Noodles</name>
+    <price>10</price>
+    <carories>380</carories>
+  </food>
+</menu>
